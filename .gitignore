@@ -52,3 +52,5 @@ mlruns/
 *.safetensors
 *.bin
 *.h5
+practice/.env
+.env
