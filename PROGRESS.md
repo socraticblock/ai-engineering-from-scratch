@@ -21,6 +21,7 @@
 | 11 | Caching & Cost | ✅ | ✅ |
 | 12 | Guardrails | ✅ | ✅ |
 | 13 | Production App | ✅ | ✅ |
+| 08 | Fine-Tuning LoRA | ⏭️ SKIP | GPU required |
 
 ## Wiki Sources Created
 - `ai-engineering-llm-engineering-patterns.md` - All prompt patterns verified
