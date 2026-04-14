@@ -8,7 +8,7 @@
 
 | # | Lesson | Status | Wiki Updated |
 |---|--------|--------|-------------|
-| 01 | Prompt Engineering | ⬜ | |
+| 01 | Prompt Engineering | ✅ | |
 | 02 | Few-Shot, CoT, ToT | ⬜ | |
 | 03 | Structured Outputs | ⬜ | |
 | 04 | Embeddings | ⬜ | |
